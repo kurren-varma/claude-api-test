@@ -1,0 +1,31 @@
+Entain Senior AI Product Manager Job Descrtiption
+Who you are
+    7+ years of product management experience owning complex digital or data/AI products — ideally with 3+ years in AI/ML/GenAI related product management
+    Track record of leading products from concept to launch and scale, with clear business impact and measurable success
+    You have successfully shipped AI/ML products before. You don't need to be a coder, but you must understand the "logic" of AI—how data, models, and user feedback loops work together
+    Demonstrated ability to translate ambiguous opportunities into structured strategies and executable plans
+    Experience in writing clear, structured product documents (PRDs, roadmaps, success metrics) and leading teams through execution
+    Strong conceptual understanding of AI/ML capabilities, models, trade-offs, and the technology landscape — you can communicate effectively with technical teams without necessarily being hands-on
+    Data-informed mindset with ability to interpret analytics, define impact metrics, and use evidence to guide prioritisation
+    Exceptional communication skills — you can persuade, align, and influence audiences ranging from engineers to senior executives
+    Excellent documentation, presentation, and storytelling skills with an eye for detail
+    Proven ability to lead cross-functional delivery in an agile environment
+    Strong organisational skills, with the ability to manage multiple priorities under tight deadlines
+    A bias for action, resilience in ambiguity, and comfort operating at the intersection of business, technology, and data
+What the job involves
+    We are seeking a Senior AI Product Manager reporting into the Head of AI, to lead a core AI product area with strategic impact
+    This is a high-visibility, high-impact role with ownership of AI product vision, roadmap, and value delivery
+    You will partner closely with senior stakeholders across Technology, Commercial, Data, Risk & Compliance, and Business Ops to drive AI innovation that delivers measurable business outcomes
+    Define and own the product vision, strategic roadmap, and execution plan for a core area of Entain’s AI portfolio — whether platform, tooling, or end-user experiences
+    Translate high-level business goals into AI product strategy and measurable outcomes, securing alignment with executive stakeholders
+    Identify how AI can materially impact key business metrics (e.g., revenue growth, engagement, efficiency, risk metrics) and prioritise accordingly
+    Lead the full product lifecycle from discovery, user research, and ideation through delivery, iteration, and scale
+    Write and own Product Requirements Documents (PRDs), success metrics, and roadmaps, ensuring clarity and alignment across teams
+    Maintain a strategic yet pragmatic backlog, prioritising ruthlessly based on impact, feasibility, and risk
+    Work hand-in-hand with Engineering, Data Science, UX/UI, and other Product Owners to ensure a unified, omni-channel, scalable approach
+    Lead and influence without direct authority, driving cross-functional alignment and shared ownership of delivery outcomes
+    Partner with Commercial and Business Development teams to build strong product business cases, shape go-to-market considerations, and support adoption strategies
+    Develop deep understanding of stakeholder and customer needs across core business areas (e.g., Core Products, Sportsbook, Gaming, Internal Platforms)
+    Use data and qualitative insights to inform product decisions, validate hypotheses, and optimise product performance over time
+    Actively scan the AI/ML ecosystem for emerging technologies, competitor trends, partner opportunities, and novel approaches that can accelerate value
+    Champion experimentation, prototyping, and iterative learning as integral parts of the product process
