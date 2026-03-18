@@ -4,6 +4,7 @@ load_dotenv()
 
 import anthropic
 import sys
+import os
 
 client = anthropic.Anthropic()
 
@@ -51,6 +52,20 @@ Always:
 
 conversation_history = []
 
+# Auto-load context file if it exists
+context_file = os.path.join(os.path.dirname(__file__), 'context.md')
+if os.path.exists(context_file):
+    with open(context_file, 'r') as f:
+        context_contents = f.read()
+    conversation_history.append({
+        "role": "user",
+        "content": f"Here is my current context for this session:\n\n{context_contents}"
+    })
+    conversation_history.append({
+        "role": "assistant",
+        "content": "Got it — I have your current context. What do you want to work on?"
+    })
+
 # Check if a file was passed in
 def read_file(filename):
     if filename.endswith('.txt') or filename.endswith('.md'):
@@ -87,7 +102,7 @@ if len(sys.argv) > 1:
         except FileNotFoundError:
             print(f"File not found: {filename}")
             sys.exit(1)
-    
+
     conversation_history.append({
         "role": "user",
         "content": f"I'm sharing these documents with you:\n\n" + "\n\n".join(all_contents)
@@ -127,7 +142,7 @@ while True:
 
     print(f"Claude: {response}")
     print("---")
-    
+
     # Save response to file
     with open("responses.md", "a") as f:
         f.write(f"## You:\n{user_input}\n\n## Claude:\n{response}\n\n---\n\n")
