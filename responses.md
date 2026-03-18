@@ -322,3 +322,44 @@ Your Q7 answer is still fuzzy. You conflated two different things — internal t
 
 ---
 
+## You:
+I want us to have a short conversation about my role & experience, so that i can 'save it' and see our context.md file update
+
+## Claude:
+Sure. Tell me about yourself — what's your background and what brought you to the Entain role?
+
+---
+
+## You:
+It was actually Perry, Chief Data Officer, who reached out to me abotu the role back in Octber of last year, I had conversations with him & Ashish (Global head of AI) way before the role got put live, and i eventually applied for it. Perry is my bosses boss, so he'll be a key person to remember. 
+
+## Claude:
+Good to know — Perry (CDO, your boss's boss) is clearly a key sponsor and relationship to nurture. The fact he reached out directly before the role was even posted suggests he has a specific vision for what he wants you to do there.
+
+A couple of questions to flesh this out:
+
+1. Do you have a sense of what Perry specifically saw in you — was it your personalisation background, your consumer product instincts, something else?
+2. What's your read on Ashish (your direct boss)? Do you have a strong relationship there too, or is Perry the stronger connection going in?
+
+---
+
+## You:
+1. I think its the no nonsense approach, im here to deliver stuff, build from the ground up, i think perry saw that in me. 2. Ashish is a bit hand wavey, he talks a lot about the fluffy side of AI/personalisation, but im yet to understand where he stands on the revenue generating, making things better side. I also know he quizzed me a lot on the AI data governance stuff, ethical AI etc. 
+
+## Claude:
+Useful — a few things I'm taking from this:
+
+**On Perry:** He's your real sponsor. He hired for execution and delivery, not vision-talk. That's your lane — keep it concrete and outcome-driven with him.
+
+**On Ashish:** Two things to watch here:
+- The "hand wavy" style could be a style difference rather than a substance difference — worth testing before writing him off
+- The governance/ethics focus is a signal though. He may be the internal check on commercial AI ambitions, which puts him in tension with where you naturally want to play (revenue, personalisation, delivery). That's a dynamic to manage carefully — you don't want to be seen as the person who steamrolls responsible AI concerns, especially given UKGC scrutiny
+
+**The risk:** Perry wants delivery, Ashish wants governance-conscious AI. You're in the middle. If you optimise purely for Perry, you could create friction with Ashish that makes your day-to-day harder.
+
+**The opportunity:** Be the person who bridges both — delivery *and* credibility on responsible AI. That's actually a strong position for a PM in a regulated environment.
+
+Does that read feel accurate? And do you know yet who you'll be working most closely with day-to-day — is it Ashish directly, or is there a layer between you?
+
+---
+

@@ -118,6 +118,30 @@ while True:
         print("Ending conversation.")
         break
 
+    if user_input.lower() == "save":
+        print("Updating context file...")
+        summary_request = [{
+            "role": "user",
+            "content": """Please update my context.md file based on our conversation. 
+Keep the same format but update:
+- Current priorities
+- Open questions
+- Key decisions made
+- This week's focus
+
+Return ONLY the markdown content, nothing else."""
+        }]
+        summary = client.messages.create(
+            model="claude-sonnet-4-6",
+            max_tokens=1024,
+            system=system_prompt,
+            messages=conversation_history + summary_request
+        )
+        with open(context_file, 'w') as f:
+            f.write(summary.content[0].text)
+        print("✅ Context file updated. Type 'quit' to exit or keep chatting.")
+        continue
+
     if not user_input.strip():
         continue
 
