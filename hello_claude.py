@@ -103,6 +103,9 @@ while True:
         print("Ending conversation.")
         break
 
+    if not user_input.strip():
+        continue
+
     conversation_history.append({
         "role": "user",
         "content": user_input
