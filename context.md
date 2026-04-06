@@ -2,7 +2,7 @@
 # Kurren's Current Context
 
 ## Role
-Senior AI PM at Entain, starting mid-May 2026
+Senior AI PM at Entain, starting May 5th 2026
 Owns personalisation and AI across all product areas
 Reports to Head of AI (Ashish)
 50/50 enablement and product delivery
